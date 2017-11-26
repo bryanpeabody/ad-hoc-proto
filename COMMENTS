@@ -1,0 +1,11 @@
+Developed use: Ubuntu 16.04.3 LTS and Python 3.5.2
+
+How to run and sample output:
+
+bryan@Desktop:~$ python3 file-reader.py
+Total amount of debits: $18,203.70
+Total amount of credits: $10,073.36
+Total number of autopays started: 10
+Total number of autopays ended: 8
+Balance for user 2456938384156277127 is: $0.00
+
